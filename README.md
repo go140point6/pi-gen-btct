@@ -2,6 +2,7 @@
 
 _Tool used to create the raspberrypi.org Raspbian images_
 
+Note: Contains Bitcoin Token bits (used to create custom BTCT Pi image)
 
 ## Dependencies
 
